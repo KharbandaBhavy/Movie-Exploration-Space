@@ -13,4 +13,6 @@
 - Run Time of the movie.
 - Link to the movie's IMDB page
 
+### ⚒️ Project Details
+- This project is completely based on node.js and it is an API based project which uses `IMDb` API by `API Dojo`.
 
