@@ -30,7 +30,7 @@ npm install
 4. Create `.env.local` file in root and add your variables
 
 ```bash
-NEXT_PUBLIC_RAPIDAPI_KEY=YOUR_RAPID_API_KEY
+NEXT_PUBLIC_API_KEY= (Your API Key here)
 ```
 
 5. Run the app
