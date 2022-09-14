@@ -4,15 +4,40 @@
 	<h2>Movie Details Exploration App</h2>
 </div>
 
-### 🤖 Features of the web app
+## 🤖 Features of the web app
 
-- It displays:
+### It displays:
 - The poster of the movie.
 - Title of the movie.
 - Launch year of the movie.
 - Run Time of the movie.
 - Link to the movie's IMDB page
 
-### ⚒️ Project Details
+## ⚒️ Project Details
 - This project is completely based on node.js and it is an API based project which uses `IMDb` API by `API Dojo`.
+- The project is very simple and easy to understand.
+
+## 🛠️ Installation Steps
+
+1. Download the `movie-details-exploration-app` directory.
+2. Unzip the downloaded file and navigate to the working directory.
+3. Install dependencies
+
+```bash
+npm install
+```
+
+4. Create `.env.local` file in root and add your variables
+
+```bash
+NEXT_PUBLIC_RAPIDAPI_KEY=YOUR_RAPID_API_KEY
+```
+
+5. Run the app
+
+```bash
+npm run dev
+```
+
+You are all set! Open [localhost:3000](http://localhost:3000/) to see the app.
 
